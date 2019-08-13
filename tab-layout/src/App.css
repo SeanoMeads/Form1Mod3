@@ -1,0 +1,22 @@
+@import 'https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css';
+
+.container{
+  margin-top:1em;
+}
+.tab-top{
+  margin-left: 0;
+}
+.tab-pane{
+  min-height: 10em;
+  border:1px #007bff solid;
+  border-radius: 0.25rem;
+  margin-top: 1em;
+  padding:1em;
+}
+
+.article{
+  margin-top: 1em;
+  border: 1px #007bff solid;
+  border-radius: 0.25rem;
+  padding: 1em;
+}
